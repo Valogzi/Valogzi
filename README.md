@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">I co-founded VFiz with Fazycks to build modern and reactive web apps, as well as other tools like CLI applications. We work on projects such as landing pages, stat dashboards, and more for individuals and company clients.<br><br>I'm currently working on Discord-Forge, a powerful CLI to easily create Discord bots using discord.js in JavaScript or TypeScript. You can also add custom components to your project.</p>
+<p align="left">I co-founded VFiz with Fazycks to build modern, responsive web applications and other tools like CLI apps. We work on projects like landing pages, statistical dashboards, and more for individuals and businesses. I'm currently working on Atomik, a powerful and performant mini-framework for building web applications.</p>
 
 ###
 
