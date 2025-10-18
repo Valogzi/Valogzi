@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Valentin "Valogzi" Rodriguez, and I'm a fullstack developer from France.</p>
+<p align="left">My name is Valentin "Valogzi" Rodriguez, and I'm a developer from France.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 Currently learning Python<br>🎯 Goals: Become a Software Engineer, AI Engineer, or Data Scientist.</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 Currently learning Python and java<br>🎯 Goals: Become a Software Engineer, AI Engineer, or Data Scientist.</p>
 
 ###
 
@@ -19,6 +19,7 @@
 ###
 
 <p align="left">I co-founded VFiz with Fazycks to build modern, responsive web applications and other tools like CLI apps. We work on projects like landing pages, statistical dashboards, and more for individuals and businesses. I'm currently working on Atomik, a powerful and performant mini-framework for building web applications.</p>
+<p align="left">I am currently working on Minecraft Mod in 1.20.1 and I'm studying pure mathematics.</p>
 
 ###
 
