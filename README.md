@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Valentin "Valogzi" Rodriguez, a developer and aspiring mathematician from France.</p>
+<p align="left">My name is Valentin "Valogzi" Rodriguez, a Software Systems Architect and aspiring mathematician from France.</p>
 
 ###
 
@@ -10,10 +10,10 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>
-📚 Currently learning Python and Java<br>
-🎯 Goals: Become a future researcher in Pure Mathematics<br>
-🧠 Passionate about exploring abstract mathematical structures and building foundational theories</p>
+<p align="left">✨ Designing scalable architectures since 2021<br>
+📚 Currently building hermetic build systems and exploring advanced language compilers<br>
+🎯 Goals: Academic Research in Pure Mathematics & Core Infrastructure Engineering<br>
+🧠 Passionate about DAG-based execution graphs, deterministic runtimes, and abstract algebraic structures</p>
 
 ###
 
@@ -21,8 +21,8 @@
 
 ###
 
-<p align="left">I co-founded VFiz with Fazycks to build modern, responsive web applications and CLI tools. We work on projects like landing pages, statistical dashboards, and more for individuals and businesses. I'm currently developing Atomik, a powerful and performant mini-framework for building web applications.</p>
-<p align="left">I am also working on a Minecraft Mod (1.20.1) and studying pure mathematics to explore new algebraic structures and foundational theories.</p>
+<p align="left">I co-founded VFiz with Fazycks to build modern, responsive web applications and high-performance CLI tools. Alongside client work, I focus heavily on low-level systems engineering, designing next-generation build toolchains and deterministic developer workspaces tailored for hyperscale environments.</p>
+<p align="left">I am also deeply invested in theoretical computer science and studying pure mathematics to bridge the gap between rigorous proof frameworks and robust software execution.</p>
 
 ###
 
@@ -31,27 +31,31 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img width="12" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="40" alt="discordjs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
 </div>
