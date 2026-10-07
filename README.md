@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Valogzi</h1>
 
 ###
 
-<p align="left">My name is Valentin "Valogzi" Rodriguez, a Software Systems Architect and aspiring mathematician from France.</p>
+<p align="left">Aspiring Mathematician & Low-Level Systems Architect from France.</p>
 
 ###
 
@@ -10,50 +10,46 @@
 
 ###
 
-<p align="left">✨ Designing scalable architectures since 2021<br>
-📚 Currently building hermetic build systems and exploring advanced language compilers<br>
-🎯 Goals: Academic Research in Pure Mathematics & Core Infrastructure Engineering<br>
-🧠 Passionate about DAG-based execution graphs, deterministic runtimes, and abstract algebraic structures</p>
+<p align="left">
+📚 Currently studying Pure Mathematics (Algebra, Topology, Formal Logic)<br>
+⚡ Designing deterministic, high-performance systems and simulation engines in modern C++<br>
+🎯 Long-term vision: Bridging rigorous mathematical proofs with zero-overhead, bare-metal execution
+</p>
 
 ###
 
-<h2 align="left">My Projects</h2>
+<h2 align="left">Core Philosophy</h2>
 
 ###
 
-<p align="left">I co-founded VFiz with Fazycks to build modern, responsive web applications and high-performance CLI tools. Alongside client work, I focus heavily on low-level systems engineering, designing next-generation build toolchains and deterministic developer workspaces tailored for hyperscale environments.</p>
-<p align="left">I am also deeply invested in theoretical computer science and studying pure mathematics to bridge the gap between rigorous proof frameworks and robust software execution.</p>
+<p align="left">
+I reject software bloat, opaque abstractions, and mechanical boilerplate. 
+My focus lies at the intersection of abstract algebraic structures and deterministic hardware execution — where code behaves like a mathematical theorem: rigorous, predictable, and exact.
+</p>
 
 ###
 
-<h2 align="left">I Code With</h2>
+<h2 align="left">Current Focus & Projects</h2>
+
+###
+
+<p align="left">
+⚙️ <b>Logic Circuit Simulator (/core)</b>: A deterministic, Qt and C++20 engine designed around directed graphs, signal propagation, and discrete dynamical systems.<br>
+📐 <b>Formal & Algebraic Explorations</b>: Translating abstract mathematical structures into efficient low-level code.
+</p>
+
+###
+
+<h2 align="left">Tools & Environment</h2>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
   <img width="12" />
